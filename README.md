@@ -4,5 +4,5 @@ A 2D arcade game based on [SGG](https://github.com/cgaueb/sgg/blob/main/README.m
 
 A spaceship that moves inside a canvas. Meteorites are spawning. Aiming with mouse to shoot.
 You must survive as much as possible by avoiding meteorites and hit high score by destroying them.
-
+![Alt Text](https://media.giphy.com/media/icdUOyAhoEjRHSTP17/giphy.gif)
 The further you go, the harder it gets!
