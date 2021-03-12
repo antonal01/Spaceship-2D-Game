@@ -7,4 +7,4 @@ You must survive as much as possible by avoiding meteorites and hit high score b
 
 The further you go, the harder it gets!
 
-          ![Alt Text](https://media.giphy.com/media/icdUOyAhoEjRHSTP17/giphy.gif)
+<p align="center">  ![Alt Text](https://media.giphy.com/media/icdUOyAhoEjRHSTP17/giphy.gif) </p>
