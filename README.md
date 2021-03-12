@@ -6,5 +6,6 @@ A spaceship that moves inside a canvas. Meteorites are spawning. Aiming with mou
 You must survive as much as possible by avoiding meteorites and hit high score by destroying them.
 
 The further you go, the harder it gets!
-
-![Alt Text](https://media.giphy.com/media/icdUOyAhoEjRHSTP17/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/icdUOyAhoEjRHSTP17/giphy.gif" />
+</p>
